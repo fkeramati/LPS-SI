@@ -1,5 +1,4 @@
-# LPS-SI
-Systemic inflammation impairs human myelopoiesis and interferon type I responses
+# Systemic inflammation impairs human myelopoiesis and interferon type I responses
 
 This repository contains code for reproducing the key figures and findings of the short and long-term effects of LPS-induced systemic inflammation on hematopoiesis, especially myelopoiesis.
 
