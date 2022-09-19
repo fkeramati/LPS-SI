@@ -15,7 +15,7 @@ In order to run codes you need to:
 <br></br>
 
  3. Follow any of the following analysis pipelines to replicate results of the paper:
-    * [Visualize whole bone marrow data from all time points using UMAP](./Analysis%20%Scripts/All%20Bone%20Marrow%20Mononuclear%20Cell%20from%20All%20Time%20Points.ipynb)
+    * [Visualize whole bone marrow data from all time points using UMAP](./Analysis%20Scripts/All%20Bone%20Marrow%20Mononuclear%20Cell%20from%20All%20Time%20Points.ipynb)
     * Acute (4h) response of bone marrow myeloid cells to LPS-SI
     * Acute (4h) response of bone marrow lymphoid T and NK cells to LPS-SI
     * Acute (4h) response of bone marrow lymphoid B and pDCs to LPS-SI
