@@ -11,6 +11,39 @@ suppressMessages(library(ggthemes))
 suppressMessages(library(miloR))
 suppressMessages(library(ggrastr))
 
+#####################
+##### IMPORTANT #####
+# In order to run the following code you need to download the single-cell RNA sequencing results from GEO depository and put them in appropriate order.
+# I have put files in the following order: 
+#BM
+#---Sbj1
+#------D0
+#------4h
+#------D7
+#---Sbj2
+#------D0
+#------4h
+#------D7
+#---Sbj3
+#------D0
+#------4h
+#------D7
+#PBMC
+#---Sbj1
+#------D0
+#------4h
+#------D7
+#---Sbj3
+#------D0
+#------4h
+#------D7
+#---Sbj4
+#------D0
+#------4h
+#------D7
+# If you change the ordering or organization of the files, you should change the code accordingly.
+####################
+
 ########################
 ### Helper functions ###
 ########################
