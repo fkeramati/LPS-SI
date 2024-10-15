@@ -10,7 +10,7 @@ In order to run codes you need to:
 
  2. Run the following script to generate the Seurat object containing scRNA-seq data from all samples (from all time points and tissues):
     * Please note that will need the resulting Seurat object of this step for the following downstream analysis.
-    * [Visualize whole bone marrow and PBMC data from all time points using UMAP](./Analysis%20Scripts/All%20Bone%20Marrow%20Mononuclear%20Cell%20from%20All%20Time%20Points.ipynb)
+    * [Visualize whole bone marrow and PBMC data from all time points using UMAP](./Analysis%20Scripts/All_Donors_Tissues_TimePoints.R)
 <br></br>
 
  3. Follow any of the following analysis pipelines to replicate results of the paper:
