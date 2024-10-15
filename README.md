@@ -17,7 +17,7 @@ In order to run codes you need to:
     * [Acute (4h) response of myeloid cells to LPS-SI](./Analysis%20Scripts/Myeloid_Acute_Response.R)
     * [Acute (4h) response of lymphoid T and NK cells to LPS-SI](./Analysis%20Scripts/LymphoidT_NK_Acute_Response.R)
     * [Acute (4h) response of lymphoid B and pDCs to LPS-SI](./Analysis%20Scripts/LymphoidB_pDC_Acute_Response.R)
-    * [Late phase (day 7) effect of LPS-SI on myelopoiesis](./Analysis%20Scripts/Long%20Lasting%20Effect%20of%20LPS-SI%20on%20BM%20Myeloid%20Cells.ipynb)
+    * [Late phase (day 7) effect of LPS-SI on myelopoiesis](./Analysis%20Scripts/Myeloid_Long_Lasting_Effect.R)
 <br></br>  
 
 For any further information or questions related to the analysis please contact Farid Keramati via [farid.karamati@gmail.com](mailto:farid.karamati@gmail.com) email address.
