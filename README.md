@@ -2,7 +2,7 @@
 
 This repository contains code for reproducing the key scRNA-seq-based findings of the short and long-term effects of LPS-induced systemic inflammation (**LPS-SI**) on hematopoiesis, especially myelopoiesis manuscript.
 <br></br>
-![alt text](./Header%20Image.png)
+![alt text](./Header_Image.png)
 <br></br>
 In order to run codes you need to:
  1. Download gene-cell count matrix from Gene Expression Omnibus (GEO) with the accession number of [GSE212093](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE212093).
