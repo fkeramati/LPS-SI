@@ -15,7 +15,7 @@ In order to run codes you need to:
 
  3. Follow any of the following analysis pipelines to replicate results of the paper:
     * [Acute (4h) response of myeloid cells to LPS-SI](./Analysis%20Scripts/Myeloid_Acute_Response.R)
-    * [Acute (4h) response of lymphoid T and NK cells to LPS-SI](./Analysis%20Scripts/Lymphoid%20T%20and%20NK%20Cells%20Acute%20Response%20to%20LPS-SI.ipynb)
+    * [Acute (4h) response of lymphoid T and NK cells to LPS-SI](./Analysis%20Scripts/LymphoidT_NK_Acute_Response.R)
     * [Acute (4h) response of lymphoid B and pDCs to LPS-SI](./Analysis%20Scripts/Lymphoid%20B%20and%20pDC%20Cells%20Acute%20Response%20to%20LPS-SI.ipynb)
     * [Late phase (day 7) effect of LPS-SI on myelopoiesis](./Analysis%20Scripts/Long%20Lasting%20Effect%20of%20LPS-SI%20on%20BM%20Myeloid%20Cells.ipynb)
 <br></br>  
